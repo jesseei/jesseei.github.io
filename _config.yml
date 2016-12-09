@@ -10,14 +10,14 @@ permalink:        pretty
 # Setup
 title:            TCP
 tagline:          cybersecurity blog
-description:      "A NPO blog for translate the english cybersecurity infos into Chinese"
+description:      "一个立志于翻译优秀网络安全博文的中文博客"
 url:              https://jesseei.github.io
 baseurl:          /
 
 author:
   name:           'tcp'
-  url:            https://twitter.com/
-
+  url:            tacapng@hotmail.com
+  
 paginate:         5
 
 # Custom vars
