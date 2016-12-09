@@ -1,0 +1,27 @@
+# Plugins
+gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata', 'jekyll-category-archive-plugin']
+
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            TCP
+tagline:          cybersecurity blog
+description:      "A NPO blog for translate the english cybersecurity infos into Chinese"
+url:              https://jesseei.github.io
+baseurl:          /
+
+author:
+  name:           'tcp'
+  url:            https://twitter.com/
+
+paginate:         5
+
+# Custom vars
+version:          1.0.1
+
+github:
+  repo:           https://github.com/jesseei
