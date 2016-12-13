@@ -27,16 +27,18 @@
       {% endfor %}
  
       <hr>
-<h3>Categories</h3>
-{% for category in site.categories %}
-    <a href="/category/{{ category[0] }}/" style="text-decoration: none;">{{ category | first }}</a><br />
-{% endfor %}
-<p />
+      <h3>Categories</h3>
+      {% for category in site.categories %}
+           <a href="/category/{{ category[0] }}/" style="text-decoration: none;">{{ category | first }}</a><br />
+      {% endfor %}
+      <p />
+      
       <hr>
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
     </nav>
-
+   
+    <p><a href="{{ site.email }}">Author Email</a></p>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
