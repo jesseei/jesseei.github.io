@@ -18,7 +18,7 @@ author:
   name:           'tcp'
   url:            tacapng@hotmail.com
   
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:          1.0.1
