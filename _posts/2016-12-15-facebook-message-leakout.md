@@ -19,7 +19,7 @@ category: TechnicalReports
 例如，如果用户打开一个被黑客接管的网站（通过恶意广告，安全漏洞或者就是黑客自己的网站），那黑客就可以看到这个用户所有的Facebook Messenger聊天记录，照片和其他发送/接收到的附件，哪怕这个用户是使用其他电脑或者使用个人移动终端！
 
 
-![2016-12-15-1](https://github.com/jesseei/jesseei.github.io/blob/master/pic/2016-12-15-1.PNG)
+![2016-12-15-1](/pic/2016-12-15-1.PNG)
 
 图 1：BugSec网站上显示出的聊天记录。左边可以看到用户ID。
 
@@ -30,13 +30,13 @@ category: TechnicalReports
 
 通信在JaaSccript和服务器之间通过XML HTTP请求（XHR）进行。为了处理从5-edge-chat.facebook.com发送来的由JavaScript构建的数据，Facebook必须在响应里增加值为请求域的“Access-Control-Allow-Origin”头，并且增加值为true的“Access-Control-Allow-Credentials”头，以便让数据在cookies已经被发送的情况下还可以访问到。
 
-![2016-12-15-2](https://github.com/jesseei/jesseei.github.io/blob/master/pic/2016-12-15-2.PNG)
+![2016-12-15-2](/pic/2016-12-15-2.PNG)
 
 图2：原始请求格式
 
 截止目前，这看上去就是一个普通的CORS过程。为了防止其它网站获取数据，Facebook会检查请求头来源域数据。如果请求来自一个没有得到认证的域，服务器会返回400，返回包的头里“xfb-chat-failure-reason.”的值被设置成 “badorigin”。
 
-![2016-12-15-3](https://github.com/jesseei/jesseei.github.io/blob/master/pic/2016-12-15-3.PNG)
+![2016-12-15-3](/pic/2016-12-15-3.PNG)
 
 图3：从不同域发来的请求
 
