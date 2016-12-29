@@ -7,46 +7,207 @@ category: RussianStudy
 ## 字母表
 ![2016-12-29-1](/pic/2016-12-29-1.jpg)
 
-[读音](http://sputniknews.cn/radiovr.com.cn/dictionary/)
 
-```
 А а 元音 对应汉语拼音a(拔牙时，医生叫你张嘴时，引导你说的那个：“啊”)
+<audio controls="controls">
+ <source src="/audio/a.mp3" type="audio/mp3" />
+</audio>
+
+
 Б б 浊辅音 对应汉语拼音b 嗓音要加重（“啵”，更准确点是“不有额”不过中间那个有只是过渡舌型）
+<audio controls="controls">
+ <source src="/audio/b.mp3" type="audio/mp3" />
+</audio>
+
+
 В в 浊辅音 对应英文字母V 注意不能成汉语拼音U（“微额”，当然主要读引号里微的口形和额的元音）
+<audio controls="controls">
+ <source src="/audio/v.mp3" type="audio/mp3" />
+</audio>
+
+
 Г г 浊辅音 对应汉语拼音g 嗓音要加重（“割”，更准确些象“给额”当然也是给的开始和额的元音）
+<audio controls="controls">
+ <source src="/audio/g.mp3" type="audio/mp3" />
+</audio>
+
+
 Д д 浊辅音 对应汉语拼音d 嗓音要加重（“ 得”如果更标准些，象“得儿”）
+<audio controls="controls">
+ <source src="/audio/d.mp3" type="audio/mp3" />
+</audio>
+
+
 Е е 元音 对应汉语拼音ye,或者汉字“也”（“耶”感觉好像还有点儿化的“耶儿”会更象标准一些）
+<audio controls="controls">
+ <source src="/audio/e.mp3" type="audio/mp3" />
+</audio>
+
+
 Ё ё 元音 对应汉语拼音yo,介于汉字“舀”和“约”之间，嘴唇要撅起来（“妖”）
+<audio controls="controls">
+ <source src="/audio/yo.mp3" type="audio/mp3" />
+</audio>
+
+
 Ж ж 浊辅音 近似汉字“日”，但差别较大，舌头不要卷曲，声带要振动且有强烈的摩擦音（“日额”）
+<audio controls="controls">
+ <source src="/audio/zh.mp3" type="audio/mp3" />
+</audio>
+
+
 З з 浊辅音 对应英文字母z ，注意，与汉语拼音的z完全不同（“汉语拼音[rai]的儿化读法”很象第五个Д）
+<audio controls="controls">
+ <source src="/audio/z.mp3" type="audio/mp3" />
+</audio>
+
+
 И и 元音 对应汉语拼音i（“依”短暂的依）
+<audio controls="controls">
+ <source src="/audio/i.mp3" type="audio/mp3" />
+</audio>
+
+
 Й й 浊辅音 读音有点像И，所以有时叫做“短И”，但它是辅音，有摩擦音，发音极为短促（“异个拉根”）
+<audio controls="controls">
+ <source src="/audio/i-.mp3" type="audio/mp3" />
+</audio>
+
+
 К к 清辅音 对应汉语拼音k，注意，发音要轻，有时听起来反而近似于汉语拼音g,但俄文字母К是清辅音，所以声带不振动（“嘎”象鸭子叫的那个“嘎嘎”的嘎）
+<audio controls="controls">
+ <source src="/audio/k.mp3" type="audio/mp3" />
+</audio>
+
+
 Л л 浊辅音 对应英文字母L（“挨了”挨揍了的挨了）
+<audio controls="controls">
+ <source src="/audio/l.mp3" type="audio/mp3" />
+</audio>
+
+
 М м 浊辅音 对应汉语拼音m（“挨末”类似上个“挨了”的“了”一样，这里的末也是要弱读做尾音的）
+<audio controls="controls">
+ <source src="/audio/m.mp3" type="audio/mp3" />
+</audio>
+
+
 Н н 浊辅音 对应汉语拼音n（“摁”跟英文字母里头的第十四个读音一样，读起来是汉语第一声的“恩”）
+<audio controls="controls">
+ <source src="/audio/n.mp3" type="audio/mp3" />
+</audio>
+
+
 О о 元音 对应汉语拼音o （“喔”就是形容恍然大悟了会不自然发出的那个“噢”但是要更短促点）
+<audio controls="controls">
+ <source src="/audio/o.mp3" type="audio/mp3" />
+</audio>
+
+
 П п 清辅音 对应汉语拼音p, 注意，发音要轻，有时听起来反而近似于汉语拼音b,但俄文字母П是清辅音，所以声带不振动（到底是清辅音还是浊辅音先不管，反正读起来跟第二个Б б很象自己多积累听力自行区别吧）
+<audio controls="controls">
+ <source src="/audio/p.mp3" type="audio/mp3" />
+</audio>
+
+
 Р р 浊辅音 所谓“舌音”，介于汉语拼音r和l之间，并且舌头要打个滚儿，有点象赶马车时候喊的“得儿——驾！”里面那个“儿---”（“挨乐儿”要多听才能与第十三个Л л区分清楚）
+<audio controls="controls">
+ <source src="/audio/r.mp3" type="audio/mp3" />
+</audio>
+
+
 С с 清辅音 对应汉语拼音s（“挨似”）
+<audio controls="controls">
+ <source src="/audio/s.mp3" type="audio/mp3" />
+</audio>
+
+
 Т т 清辅音 对应汉语拼音t,注意，发音要轻，有时听起来反而近似于汉语拼音d,但俄文字母Т是清辅音，所以声带不振动（“忒饿”智能ABC输入法中拼音输入tei的那个字的读音再饿个尾音忒是天津方言太怎样的意思）
+<audio controls="controls">
+ <source src="/audio/t.mp3" type="audio/mp3" />
+</audio>
+
+
 У у 元音 对应汉语拼音U（“呜”）
+<audio controls="controls">
+ <source src="/audio/u.mp3" type="audio/mp3" />
+</audio>
+
+
 Ф ф 清辅音 对应汉语拼音f（“挨附”更象英文第六个字母的读音）
+<audio controls="controls">
+ <source src="/audio/f.mp3" type="audio/mp3" />
+</audio>
+
+
 Х х 清辅音 对应汉语拼音h（“哈”哈韩，哈欠的哈）
+<audio controls="controls">
+ <source src="/audio/kh.mp3" type="audio/mp3" />
+</audio>
+
+
 Ц ц 清辅音 对应汉语拼音c（“测额”）
+<audio controls="controls">
+ <source src="/audio/ts.mp3" type="audio/mp3" />
+</audio>
+
+
 Ч ч 清辅音 对应汉语拼音q（“切儿”）
+<audio controls="controls">
+ <source src="/audio/ch.mp3" type="audio/mp3" />
+</audio>
+
+
 Ш ш 清辅音 对应汉语拼音sh（“杀”）
+<audio controls="controls">
+ <source src="/audio/sh.mp3" type="audio/mp3" />
+</audio>
+
+
 Щ щ 清辅音 对应汉语拼音x（“瞎”）
+<audio controls="controls">
+ <source src="/audio/sch.mp3" type="audio/mp3" />
+</audio>
+
+
 Ъ ъ 硬音符号 本身不发音，出现在单词里表示前后两个字母不能连读（“得要累丝拉夫”）
+<audio controls="controls">
+ <source src="/audio/hardno.mp3" type="audio/mp3" />
+</audio>
+
+
 Ы ы 元音 近似汉语拼音ei，但舌头要向后缩，嘴巴张得比发И时稍大（“呃”惊愕的愕第一声）
+<audio controls="controls">
+ <source src="/audio/y.mp3" type="audio/mp3" />
+</audio>
+
+
 Ь ь 软音符号，只要它出现，它前面的字母就读成所谓“软音”。可以把它看作是最短促的i（汉语拼音），因此，比如ть就读作很短促的ti(汉语拼音），但非常轻而且非常短促，不构成一个音节 （“灭挨黑丝拉克）
+<audio controls="controls">
+ <source src="/audio/softno.mp3" type="audio/mp3" />
+</audio>
+
+
 Э э 元音，相当于英语音标中的[e],或者说汉语拼音ye去掉声母y（“挨”）
+<audio controls="controls">
+ <source src="/audio/ei.mp3" type="audio/mp3" />
+</audio>
+
+
 Ю ю 元音，相当于字母ЙУ连读，近似于汉字“优”，但嘴要扁一些，并且发音过程中嘴型保持不变
+<audio controls="controls">
+ <source src="/audio/yu.mp3" type="audio/mp3" />
+</audio>
+
+
 Я я 元音，相当于字母ЙА连读，近似于汉字“亚”
-```
+<audio controls="controls">
+ <source src="/audio/ya.mp3" type="audio/mp3" />
+</audio>
+
+
 
 ## 俄文字母（а，у，о，м，п，ф）
-
 ```
 А а——口张大，舌自然平放（和汉字“啊”读音相似）
 У у——双唇用力向前伸，圆撮成筒状，开口度很小，舌向后缩并向上颚高高抬起（和汉字“乌”读音相似）
@@ -69,7 +230,6 @@ category: RussianStudy
 ```
 
 ## 俄文字母（с，х，в，б）
-
 ```
 Сс——前舌部与上齿及上齿龈靠近形成缝隙，舌尖抵下齿，气流通过窄缝成音。（读音类似于汉语“丝”）
 Хх——舌体向后缩，后舌部向上抬起，气流通过缝隙发出此音。（读音类似于汉语“喝”）
@@ -83,7 +243,6 @@ category: RussianStudy
 ```
 
 ## 俄文字母（и，э，н，т，к）
-
 ```
 Ии——双唇向两边舒展，成缝状。似在微笑，前舌部高高抬起。（读音类似于汉语中的“一”）
 Ээ——双唇向两边舒展，口张开似椭圆形，舌位比低，舌中部向上抬起。发音时舌位不要移动。（读音类似于汉语中的“挨”）
@@ -98,7 +257,6 @@ category: RussianStudy
 ```
 
 ## 俄文字母（р，ш，ж，л，ч，е，ё）
-
 ```
 Рр——口微张开，气流通过时舌尖靠近上齿龈颤动，舌不要弯折起来。（这是俄语中的颤音，发起来很好听。我在汉语中还真找不到和它相似的音，不过在元音前发“勒”，只是要让自己的舌头颤起来。）
 Шш——舌向后缩，舌尖上翘，后舌部向上抬起，双唇圆撮前伸，气流通过缝隙摩擦成音。（类似于汉语中“失”的读音）
