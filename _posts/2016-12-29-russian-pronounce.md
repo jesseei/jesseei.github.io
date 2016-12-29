@@ -72,9 +72,7 @@ category: RussianStudy
 
 
 
-Р р 浊辅音 <audio controls="controls" style="width:180px;">
- <source src="/audio/r.mp3" type="audio/mp3" />
-</audio>所谓“舌音”，介于汉语拼音r和l之间，并且舌头要打个滚儿，有点象赶马车时候喊的“得儿——驾！”里面那个“儿---”（“挨乐儿”要多听才能与第十三个Л л区分清楚）<br />
+Р р 浊辅音 <audio controls="controls" style="width:180px;"><source src="/audio/r.mp3" type="audio/mp3" /></audio>所谓“舌音”，介于汉语拼音r和l之间，并且舌头要打个滚儿，有点象赶马车时候喊的“得儿——驾！”里面那个“儿---”（“挨乐儿”要多听才能与第十三个Л л区分清楚）<br />
 
 
 
