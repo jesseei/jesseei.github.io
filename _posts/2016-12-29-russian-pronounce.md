@@ -8,199 +8,133 @@ category: RussianStudy
 ![2016-12-29-1](/pic/2016-12-29-1.jpg)
 
 
-А а 元音 <audio controls="controls" style="width:150px;">
- <source src="/audio/a.mp3" type="audio/mp3" />
-</audio> 对应汉语拼音a(拔牙时，医生叫你张嘴时，引导你说的那个：“啊”)
+А а 元音 <audio controls="controls" style="width:150px;"><source src="/audio/a.mp3" type="audio/mp3" /></audio> 对应汉语拼音a(拔牙时，医生叫你张嘴时，引导你说的那个：“啊”) <br />
 
 
-Б б 浊辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/b.mp3" type="audio/mp3" />
-</audio>对应汉语拼音b 嗓音要加重（“啵”，更准确点是“不有额”不过中间那个有只是过渡舌型）
+Б б 浊辅音 <audio controls="controls" style="width:150px;"><source src="/audio/b.mp3" type="audio/mp3" /></audio>对应汉语拼音b 嗓音要加重（“啵”，更准确点是“不有额”不过中间那个有只是过渡舌型）<br />
 
 
-В в 浊辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/v.mp3" type="audio/mp3" />
-</audio>对应英文字母V 注意不能成汉语拼音U（“微额”，当然主要读引号里微的口形和额的元音）
+В в 浊辅音 <audio controls="controls" style="width:150px;"><source src="/audio/v.mp3" type="audio/mp3" /></audio>对应英文字母V 注意不能成汉语拼音U（“微额”，当然主要读引号里微的口形和额的元音）<br />
 
 
 
-Г г 浊辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/g.mp3" type="audio/mp3" />
-</audio>对应汉语拼音g 嗓音要加重（“割”，更准确些象“给额”当然也是给的开始和额的元音）
+Г г 浊辅音 <audio controls="controls" style="width:150px;"><source src="/audio/g.mp3" type="audio/mp3" /></audio>对应汉语拼音g 嗓音要加重（“割”，更准确些象“给额”当然也是给的开始和额的元音）<br />
 
 
 
-Д д 浊辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/d.mp3" type="audio/mp3" />
-</audio>对应汉语拼音d 嗓音要加重（“ 得”如果更标准些，象“得儿”）
+Д д 浊辅音 <audio controls="controls" style="width:150px;"><source src="/audio/d.mp3" type="audio/mp3" /></audio>对应汉语拼音d 嗓音要加重（“ 得”如果更标准些，象“得儿”）<br />
 
 
 
-Е е 元音 <audio controls="controls" style="width:150px;">
- <source src="/audio/e.mp3" type="audio/mp3" />
-</audio>
-对应汉语拼音ye,或者汉字“也”（“耶”感觉好像还有点儿化的“耶儿”会更象标准一些）
+Е е 元音 <audio controls="controls" style="width:150px;"><source src="/audio/e.mp3" type="audio/mp3" /></audio>对应汉语拼音ye,或者汉字“也”（“耶”感觉好像还有点儿化的“耶儿”会更象标准一些）<br />
 
 
-Ё ё 元音 <audio controls="controls" style="width:150px;">
- <source src="/audio/yo.mp3" type="audio/mp3" />
-</audio>对应汉语拼音yo,介于汉字“舀”和“约”之间，嘴唇要撅起来（“妖”）
+Ё ё 元音 <audio controls="controls" style="width:150px;"><source src="/audio/yo.mp3" type="audio/mp3" /></audio>对应汉语拼音yo,介于汉字“舀”和“约”之间，嘴唇要撅起来（“妖”）<br />
 
 
 
-Ж ж 浊辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/zh.mp3" type="audio/mp3" />
-</audio>
-近似汉字“日”，但差别较大，舌头不要卷曲，声带要振动且有强烈的摩擦音（“日额”）
+Ж ж 浊辅音 <audio controls="controls" style="width:150px;"><source src="/audio/zh.mp3" type="audio/mp3" /></audio>近似汉字“日”，但差别较大，舌头不要卷曲，声带要振动且有强烈的摩擦音（“日额”）<br />
 
 
-З з 浊辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/z.mp3" type="audio/mp3" />
-</audio>对应英文字母z ，注意，与汉语拼音的z完全不同（“汉语拼音[rai]的儿化读法”很象第五个Д）
+З з 浊辅音 <audio controls="controls" style="width:150px;"><source src="/audio/z.mp3" type="audio/mp3" /></audio>对应英文字母z ，注意，与汉语拼音的z完全不同（“汉语拼音[rai]的儿化读法”很象第五个Д）<br />
 
 
 
-И и 元音 <audio controls="controls" style="width:150px;">
- <source src="/audio/i.mp3" type="audio/mp3" />
-</audio>对应汉语拼音i（“依”短暂的依）
+И и 元音 <audio controls="controls" style="width:150px;"><source src="/audio/i.mp3" type="audio/mp3" /></audio>对应汉语拼音i（“依”短暂的依）<br />
 
 
 
-Й й 浊辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/i-.mp3" type="audio/mp3" />
-</audio>读音有点像И，所以有时叫做“短И”，但它是辅音，有摩擦音，发音极为短促（“异个拉根”）
+Й й 浊辅音 <audio controls="controls" style="width:150px;"><source src="/audio/i-.mp3" type="audio/mp3" /></audio>读音有点像И，所以有时叫做“短И”，但它是辅音，有摩擦音，发音极为短促（“异个拉根”）<br />
 
 
 
-К к 清辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/k.mp3" type="audio/mp3" />
-</audio>对应汉语拼音k，注意，发音要轻，有时听起来反而近似于汉语拼音g,但俄文字母К是清辅音，所以声带不振动（“嘎”象鸭子叫的那个“嘎嘎”的嘎）
+К к 清辅音 <audio controls="controls" style="width:150px;"><source src="/audio/k.mp3" type="audio/mp3" /></audio>对应汉语拼音k，注意，发音要轻，有时听起来反而近似于汉语拼音g,但俄文字母К是清辅音，所以声带不振动（“嘎”象鸭子叫的那个“嘎嘎”的嘎）<br />
 
 
 
-Л л 浊辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/l.mp3" type="audio/mp3" />
-</audio>对应英文字母L（“挨了”挨揍了的挨了）
+Л л 浊辅音 <audio controls="controls" style="width:150px;"><source src="/audio/l.mp3" type="audio/mp3" /></audio>对应英文字母L（“挨了”挨揍了的挨了）<br />
 
 
 
-М м 浊辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/m.mp3" type="audio/mp3" />
-</audio>对应汉语拼音m（“挨末”类似上个“挨了”的“了”一样，这里的末也是要弱读做尾音的）
+М м 浊辅音 <audio controls="controls" style="width:150px;"><source src="/audio/m.mp3" type="audio/mp3" /></audio>对应汉语拼音m（“挨末”类似上个“挨了”的“了”一样，这里的末也是要弱读做尾音的）<br />
 
 
 
-Н н 浊辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/n.mp3" type="audio/mp3" />
-</audio>对应汉语拼音n（“摁”跟英文字母里头的第十四个读音一样，读起来是汉语第一声的“恩”）
+Н н 浊辅音 <audio controls="controls" style="width:150px;"><source src="/audio/n.mp3" type="audio/mp3" /></audio>对应汉语拼音n（“摁”跟英文字母里头的第十四个读音一样，读起来是汉语第一声的“恩”）<br /><br />
 
 
 
-О о 元音 <audio controls="controls" style="width:150px;">
- <source src="/audio/o.mp3" type="audio/mp3" />
-</audio>对应汉语拼音o （“喔”就是形容恍然大悟了会不自然发出的那个“噢”但是要更短促点）
+О о 元音 <audio controls="controls" style="width:150px;"><source src="/audio/o.mp3" type="audio/mp3" /></audio>对应汉语拼音o （“喔”就是形容恍然大悟了会不自然发出的那个“噢”但是要更短促点）<br />
 
 
 
-П п 清辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/p.mp3" type="audio/mp3" />
-</audio>对应汉语拼音p, 注意，发音要轻，有时听起来反而近似于汉语拼音b,但俄文字母П是清辅音，所以声带不振动（到底是清辅音还是浊辅音先不管，反正读起来跟第二个Б б很象自己多积累听力自行区别吧）
+П п 清辅音 <audio controls="controls" style="width:150px;"><source src="/audio/p.mp3" type="audio/mp3" /></audio>对应汉语拼音p, 注意，发音要轻，有时听起来反而近似于汉语拼音b,但俄文字母П是清辅音，所以声带不振动（到底是清辅音还是浊辅音先不管，反正读起来跟第二个Б б很象自己多积累听力自行区别吧）<br />
 
 
 
 Р р 浊辅音 <audio controls="controls" style="width:150px;">
  <source src="/audio/r.mp3" type="audio/mp3" />
-</audio>所谓“舌音”，介于汉语拼音r和l之间，并且舌头要打个滚儿，有点象赶马车时候喊的“得儿——驾！”里面那个“儿---”（“挨乐儿”要多听才能与第十三个Л л区分清楚）
+</audio>所谓“舌音”，介于汉语拼音r和l之间，并且舌头要打个滚儿，有点象赶马车时候喊的“得儿——驾！”里面那个“儿---”（“挨乐儿”要多听才能与第十三个Л л区分清楚）<br />
 
 
 
-С с 清辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/s.mp3" type="audio/mp3" />
-</audio>对应汉语拼音s（“挨似”）
+С с 清辅音 <audio controls="controls" style="width:150px;"><source src="/audio/s.mp3" type="audio/mp3" /></audio>对应汉语拼音s（“挨似”）<br />
 
 
 
-Т т 清辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/t.mp3" type="audio/mp3" />
-</audio>对应汉语拼音t,注意，发音要轻，有时听起来反而近似于汉语拼音d,但俄文字母Т是清辅音，所以声带不振动（“忒饿”智能ABC输入法中拼音输入tei的那个字的读音再饿个尾音忒是天津方言太怎样的意思）
+Т т 清辅音 <audio controls="controls" style="width:150px;"><source src="/audio/t.mp3" type="audio/mp3" /></audio>对应汉语拼音t,注意，发音要轻，有时听起来反而近似于汉语拼音d,但俄文字母Т是清辅音，所以声带不振动（“忒饿”智能ABC输入法中拼音输入tei的那个字的读音再饿个尾音忒是天津方言太怎样的意思）<br />
 
 
 
-У у 元音 <audio controls="controls" style="width:150px;">
- <source src="/audio/u.mp3" type="audio/mp3" />
-</audio>对应汉语拼音U（“呜”）
+У у 元音 <audio controls="controls" style="width:150px;"><source src="/audio/u.mp3" type="audio/mp3" /></audio>对应汉语拼音U（“呜”）<br />
 
 
 
-Ф ф 清辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/f.mp3" type="audio/mp3" />
-</audio>对应汉语拼音f（“挨附”更象英文第六个字母的读音）
+Ф ф 清辅音 <audio controls="controls" style="width:150px;"><source src="/audio/f.mp3" type="audio/mp3" /></audio>对应汉语拼音f（“挨附”更象英文第六个字母的读音）<br />
 
 
 
-Х х 清辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/kh.mp3" type="audio/mp3" />
-</audio>对应汉语拼音h（“哈”哈韩，哈欠的哈）
+Х х 清辅音 <audio controls="controls" style="width:150px;"><source src="/audio/kh.mp3" type="audio/mp3" /></audio>对应汉语拼音h（“哈”哈韩，哈欠的哈）<br />
 
 
 
-Ц ц 清辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/ts.mp3" type="audio/mp3" />
-</audio>对应汉语拼音c（“测额”）
+Ц ц 清辅音 <audio controls="controls" style="width:150px;"><source src="/audio/ts.mp3" type="audio/mp3" /></audio>对应汉语拼音c（“测额”）<br />
 
 
 
-Ч ч 清辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/ch.mp3" type="audio/mp3" />
-</audio>对应汉语拼音q（“切儿”）
+Ч ч 清辅音 <audio controls="controls" style="width:150px;"><source src="/audio/ch.mp3" type="audio/mp3" /></audio>对应汉语拼音q（“切儿”）<br />
 
 
 
-Ш ш 清辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/sh.mp3" type="audio/mp3" />
-</audio>对应汉语拼音sh（“杀”）
+Ш ш 清辅音 <audio controls="controls" style="width:150px;"><source src="/audio/sh.mp3" type="audio/mp3" /></audio>对应汉语拼音sh（“杀”）<br />
 
 
 
-Щ щ 清辅音 <audio controls="controls" style="width:150px;">
- <source src="/audio/sch.mp3" type="audio/mp3" />
-</audio>对应汉语拼音x（“瞎”）
+Щ щ 清辅音 <audio controls="controls" style="width:150px;"><source src="/audio/sch.mp3" type="audio/mp3" /></audio>对应汉语拼音x（“瞎”）<br />
 
 
 
-Ъ ъ 硬音符号 <audio controls="controls" style="width:150px;">
- <source src="/audio/hardno.mp3" type="audio/mp3" />
-</audio>本身不发音，出现在单词里表示前后两个字母不能连读（“得要累丝拉夫”）
+Ъ ъ 硬音符号 <audio controls="controls" style="width:150px;"><source src="/audio/hardno.mp3" type="audio/mp3" /></audio>本身不发音，出现在单词里表示前后两个字母不能连读（“得要累丝拉夫”）<br />
 
 
 
-Ы ы 元音 <audio controls="controls" style="width:150px;">
- <source src="/audio/y.mp3" type="audio/mp3" />
-</audio>近似汉语拼音ei，但舌头要向后缩，嘴巴张得比发И时稍大（“呃”惊愕的愕第一声）
+Ы ы 元音 <audio controls="controls" style="width:150px;"><source src="/audio/y.mp3" type="audio/mp3" /></audio>近似汉语拼音ei，但舌头要向后缩，嘴巴张得比发И时稍大（“呃”惊愕的愕第一声）<br />
 
 
 
-Ь ь 软音符号 <audio controls="controls" style="width:150px;">
- <source src="/audio/softno.mp3" type="audio/mp3" />
-</audio>只要它出现，它前面的字母就读成所谓“软音”。可以把它看作是最短促的i（汉语拼音），因此，比如ть就读作很短促的ti(汉语拼音），但非常轻而且非常短促，不构成一个音节 （“灭挨黑丝拉克）
+Ь ь 软音符号 <audio controls="controls" style="width:150px;"><source src="/audio/softno.mp3" type="audio/mp3" /></audio>只要它出现，它前面的字母就读成所谓“软音”。可以把它看作是最短促的i（汉语拼音），因此，比如ть就读作很短促的ti(汉语拼音），但非常轻而且非常短促，不构成一个音节 （“灭挨黑丝拉克）<br />
 
 
 
-Э э 元音 <audio controls="controls" style="width:150px;">
- <source src="/audio/ei.mp3" type="audio/mp3" />
-</audio>相当于英语音标中的[e],或者说汉语拼音ye去掉声母y（“挨”）
+Э э 元音 <audio controls="controls" style="width:150px;"><source src="/audio/ei.mp3" type="audio/mp3" /></audio>相当于英语音标中的[e],或者说汉语拼音ye去掉声母y（“挨”）<br />
 
 
 
-Ю ю 元音<audio controls="controls" style="width:150px;">
- <source src="/audio/yu.mp3" type="audio/mp3" />
-</audio>相当于字母ЙУ连读，近似于汉字“优”，但嘴要扁一些，并且发音过程中嘴型保持不变
+Ю ю 元音<audio controls="controls" style="width:150px;"><source src="/audio/yu.mp3" type="audio/mp3" /></audio>相当于字母ЙУ连读，近似于汉字“优”，但嘴要扁一些，并且发音过程中嘴型保持不变<br />
 
 
 
-Я я 元音<audio controls="controls" style="width:150px;">
- <source src="/audio/ya.mp3" type="audio/mp3" />
-</audio>相当于字母ЙА连读，近似于汉字“亚”
+Я я 元音<audio controls="controls" style="width:150px;"><source src="/audio/ya.mp3" type="audio/mp3" /></audio>相当于字母ЙА连读，近似于汉字“亚”<br />
 
 
 
