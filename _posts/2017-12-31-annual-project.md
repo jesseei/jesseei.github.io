@@ -13,9 +13,9 @@ category: RussianStudy
     }
 </script> 
 
-<a href="#" onClick="isHidden('jan')">
-<h2>一月份</h2>
-</a>
+<h2><a href="#" onClick="isHidden('jan')">
+一月份
+</a></h2>
 
 <div id='jan'>
 <ul>
