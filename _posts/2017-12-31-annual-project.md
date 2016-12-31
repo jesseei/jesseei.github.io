@@ -28,7 +28,7 @@ category: RussianStudy
 </div>
 <br />
 
-<a href="#" onClick="isHidden('feb')"><h2>二月份</h2></a>
+<a href="#" onClick="isHidden('feb')"><span><h2>二月份</h2></span></a>
 <span id='feb'>
 + 朋友圈文章发表两次
 + 投稿安全圈英文翻译两次
@@ -38,3 +38,4 @@ category: RussianStudy
 + 锻炼15次
 </span>
 <br />
+
