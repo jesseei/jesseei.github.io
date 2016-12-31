@@ -6,12 +6,25 @@ category: RussianStudy
 
 >做一个自律的人。
 
+<script language="javascript" type="text/javascript"> 
+    function isHidden(oDiv){
+      var vDiv = document.getElementById(oDiv);
+      vDiv.style.display = (vDiv.style.display == 'none')?'block':'none';
+    }
+</script> 
+
+<a href="#" onClick="isHidden('aa')"><span>
 # 一月份
+</span></a>
+<span id='aa'>
 + 朋友圈文章发表四次
 + 投稿安全圈英文翻译四次
 + 学会俄语简单对话
 + 读完《自私的基因》
 + 锻炼20次
+</span>
+<br />
+
 <br />
 
 # 二月份
