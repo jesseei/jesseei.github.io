@@ -38,11 +38,3 @@ category: RussianStudy
 + 锻炼15次
 </span>
 <br />
-
-<a href="#" onClick="isHidden('mar')"><h2>三月份</h2></a>
-<div id='mar'>
-+ 朋友圈文章发表四次
-+ 投稿安全圈英文翻译四次
-+ 读一本书
-+ 锻炼20次
-</div>
