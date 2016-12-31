@@ -13,7 +13,7 @@ category: RussianStudy
     }
 </script> 
 
-<h3><a href="#" onClick="isHidden('jan')">一月份</a></h3>
+<a href="#" onClick="isHidden('jan')">一月份</a>
 <div id='jan'  style="display:none" >
 <ul>
 <li>朋友圈文章发表四次</li>
@@ -24,7 +24,7 @@ category: RussianStudy
 </ul>
 </div>
 
-<h3><a href="#" onClick="isHidden('feb')">二月份</a><h3>
+<a href="#" onClick="isHidden('feb')">二月份</a>
 <div id='feb'  style="display:none" >
 <ul>
 <li>朋友圈文章发表两次</li>
@@ -36,7 +36,7 @@ category: RussianStudy
 </ul>
 </div>
 
-<h3><a href="#" onClick="isHidden('mar')">三月份</a><h3>
+<a href="#" onClick="isHidden('mar')">三月份</a>
 <div id='mar'  style="display:none" >
 <ul>
 <li>朋友圈文章发表四次</li>
