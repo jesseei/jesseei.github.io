@@ -14,14 +14,18 @@ category: RussianStudy
 </script> 
 
 <a href="#" onClick="isHidden('aa')"><span>
+
 # 一月份
+
 </span></a>
 <span id='aa'>
+
 + 朋友圈文章发表四次
 + 投稿安全圈英文翻译四次
 + 学会俄语简单对话
 + 读完《自私的基因》
 + 锻炼20次
+
 </span>
 <br />
 
