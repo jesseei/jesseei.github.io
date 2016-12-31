@@ -15,7 +15,7 @@ category: RussianStudy
 
 <h3><a href="#" onClick="isHidden('jan')">一月份</a></h3>
 
-<div id='jan'>
+<div id='jan'  style="display:none" >
 <ul>
 <li>朋友圈文章发表四次11111</li>
 <li>投稿安全圈英文翻译四次</li>
@@ -24,23 +24,23 @@ category: RussianStudy
 <li>锻炼20次</li>
 </ul>
 </div>
-<br />
-
 <h3><a href="#" onClick="isHidden('feb')">二月份</a><h3>
-<div id='feb'>
+<div id='feb'  style="display:none" >
+
 + 朋友圈文章发表两次
 + 投稿安全圈英文翻译两次
 + 伊尔库茨克四日游
 + 和老友小聚一次
 + 读一本书
 + 锻炼15次
-</div>
-<br />
 
+</div>
 <h3><a href="#" onClick="isHidden('mar')">三月份</a><h3>
-<div id='mar'>
+<div id='mar'  style="display:none" >
+
 + 朋友圈文章发表四次
 + 投稿安全圈英文翻译四次
 + 读一本书
 + 锻炼20次
+
 </div>
