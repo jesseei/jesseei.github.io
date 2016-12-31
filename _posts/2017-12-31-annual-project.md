@@ -13,31 +13,40 @@ category: RussianStudy
     }
 </script> 
 
-<a href="#" onClick="isHidden('aa')"><span>
-# 一月份 
+<a href="#" onClick="isHidden('jan')"><span>
+<h2>一月份</h2>
 </span></a>
 
-<span id='aa'>
-+ 朋友圈文章发表四次111111
-+ 投稿安全圈英文翻译四次
-+ 学会俄语简单对话
-+ 读完《自私的基因》
-+ 锻炼20次
+<span id='jan'>
+<ul>
+<li>朋友圈文章发表四次</li>
+<li>投稿安全圈英文翻译四次</li>
+<li>学会俄语简单对话</li>
+<li>读完《自私的基因》</li>
+<li>锻炼20次</li>
+</ul>
 </span>
 <br />
 
-
-# 二月份
+<a href="#" onClick="isHidden('feb')"><span>
+<h2>二月份</h2>
+</span></a>
+<span id='feb'>
 + 朋友圈文章发表两次
 + 投稿安全圈英文翻译两次
 + 伊尔库茨克四日游
 + 和老友小聚一次
 + 读一本书
 + 锻炼15次
+</span>
 <br />
 
-# 三月份
+<a href="#" onClick="isHidden('mar')"><span>
+<h2>三月份</h2>
+</span></a>
+<div id='mar'>
 + 朋友圈文章发表四次
 + 投稿安全圈英文翻译四次
 + 读一本书
 + 锻炼20次
+</div>
