@@ -26,21 +26,21 @@ category: RussianStudy
 </div>
 <h3><a href="#" onClick="isHidden('feb')">二月份</a><h3>
 <div id='feb'  style="display:none" >
-
-+ 朋友圈文章发表两次
-+ 投稿安全圈英文翻译两次
-+ 伊尔库茨克四日游
-+ 和老友小聚一次
-+ 读一本书
-+ 锻炼15次
-
+<ul>
+<li>朋友圈文章发表两次</li>
+<li>投稿安全圈英文翻译两次</li>
+<li>伊尔库茨克四日游</li>
+<li>和老友小聚一次</li>
+<li>读一本书</li>
+<li>锻炼15次</li>
+</ul>
 </div>
 <h3><a href="#" onClick="isHidden('mar')">三月份</a><h3>
 <div id='mar'  style="display:none" >
-
-+ 朋友圈文章发表四次
-+ 投稿安全圈英文翻译四次
-+ 读一本书
-+ 锻炼20次
-
+<ul>
+<li>朋友圈文章发表四次</li>
+<li>投稿安全圈英文翻译四次</li>
+<li>读一本书</li>
+<li>锻炼20次</li>
+</ul>
 </div>
