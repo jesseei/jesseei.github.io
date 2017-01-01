@@ -15,13 +15,13 @@ category: RussianStudy
 
 <a href="#" onClick="isHidden('jan')">一月份</a>
 <div id='jan'  style="display:none" >
-<ul>
-<li>朋友圈文章发表四次</li>
-<li>投稿安全圈英文翻译四次</li>
-<li>学会俄语简单对话</li>
-<li>读完《自私的基因》</li>
-<li>锻炼20次</li>
-</ul>
+
+- [x] 朋友圈文章发表四次
+- [x] 投稿安全圈英文翻译四次
+- [x] 学会俄语简单对话
+- [ ] 读完《自私的基因》
+- [ ] 锻炼20次
+
 </div>
 
 <a href="#" onClick="isHidden('feb')">二月份</a>
