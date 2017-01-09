@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 安全行业从业人员自研开源扫描器的仓库
+title: 安全从业者自研开源扫描器的仓库
 category: Hackers
 ---
 
