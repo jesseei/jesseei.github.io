@@ -1,7 +1,12 @@
 # Plugins
-gems:             ['jekyll-paginate', 'jekyll-gist', 'jekyll-github-metadata', 'jekyll-category-archive-plugin']
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-category-archive-plugin
 
 # Dependencies
+markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
@@ -21,7 +26,7 @@ author:
 paginate:         3
 
 # Custom vars
-version:          1.0.1
+version:          2.0.1
 
 github:
   repo:           https://github.com/jesseei
