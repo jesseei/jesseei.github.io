@@ -14,17 +14,18 @@ title: Categories
 
 {% for post in site.categories.[page.category] %}
 <div class="post-preview">
-    <a href="{{ site.baseurl }}{{ post.url | remove_first: '/'}}">
-    <!--    <h2 class="post-title">            
+    <!--<a href="{{ site.baseurl }}{{ post.url | remove_first: '/'}}"> -->
+    <a href="{{ post.url}}">
+        <h2 class="post-title">            
             {{ post.title }}
         </h2>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}
         </h3>
-        {% endif %} -->
+        {% endif %} 
      
-    aaaa</a>
+    </a>
     <p class="post-meta">
       Posted by 
       {% if post.author %}
